@@ -1,0 +1,31 @@
+1,Starters,Spring Rolls,250
+2,Starters,Chicken Wings,350
+3,Starters,Garlic Bread,200
+4,Starters,French Fries,180
+5,Starters,Cheese Nuggets,280
+10,Main Course,Chicken Biryani,450
+11,Main Course,Mutton Karahi,650
+12,Main Course,Grilled Fish,550
+13,Main Course,Beef Steak,700
+14,Main Course,Vegetable Pasta,380
+15,Main Course,Chicken Tikka Masala,480
+20,Desserts,Chocolate Brownie,250
+21,Desserts,Ice Cream Sundae,200
+22,Desserts,Gulab Jamun,150
+23,Desserts,Tiramisu,320
+24,Desserts,Fruit Custard,180
+30,Specialities,Tandoori Platter,850
+31,Specialities,Seafood Mix Grill,950
+32,Specialities,Lahori Chargha,750
+33,Specialities,BBQ Ribs,800
+40,Beverages,Fresh Lime Soda,120
+41,Beverages,Mango Juice,150
+42,Beverages,Cola,100
+43,Beverages,Coffee,180
+44,Beverages,Green Tea,130
+45,Beverages,Mint Margarita,160
+50,Add Ons,Extra Cheese,50
+51,Add Ons,Raita,80
+52,Add Ons,Salad,100
+53,Add Ons,Naan,40
+54,Add Ons,Rice Bowl,120
