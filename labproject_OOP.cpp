@@ -20,7 +20,7 @@ void resetColor() {
 }
 
 void clearScreen() {
-    system("cls");  // For Windows
+    system("cls"); 
 }
 
 void pauseScreen() {
@@ -1584,3 +1584,4 @@ int main() {
 
     return 0;
 }
+
